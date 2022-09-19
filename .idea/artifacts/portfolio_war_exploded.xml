@@ -17,7 +17,8 @@
           <element id="archive" name="portfolio-1.0-SNAPSHOT.jar">
             <element id="module-output" name="portfolio" />
           </element>
-          <element id="library" level="project" name="Maven: javax.mail:javax.mail-api:1.6.2" />
+          <element id="library" level="project" name="Maven: com.sun.mail:jakarta.mail:2.0.1" />
+          <element id="library" level="project" name="Maven: com.sun.activation:jakarta.activation:2.0.1" />
         </element>
       </element>
       <element id="directory" name="META-INF">
